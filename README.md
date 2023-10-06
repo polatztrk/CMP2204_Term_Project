@@ -76,6 +76,3 @@ Log texts for both the upload and download sides can be found in "upload_log.txt
 
 Contributions to this project are welcome. If you have improvements, bug fixes, or additional features to add, please feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
